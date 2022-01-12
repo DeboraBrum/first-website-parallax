@@ -2,7 +2,7 @@
 
 ## Links
 
-- Solution URL: [Acess here](https://deborabrum.github.io/LandingPage-FrontendMentor-challenge/)
+- Solution URL: [Acess here](https://deborabrum.github.io/first-website-parallax/)
 
 ### Built with
 
